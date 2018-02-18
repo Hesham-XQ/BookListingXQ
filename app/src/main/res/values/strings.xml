@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BookListingXQ</string>
+    <string name="no_internet_connection_message">no internet connection yaaaaaaaad</string>
+    <string name="search_expand_view">touch to expand</string>
+    <string name="no_results_message">Oops, no books were found.\n\nYou could try and modify the search.</string>
+    <string name="toast_no_search_parameters_entered">Please enter search parameters at first</string>
+    <string name="more_details">more details</string>
+    <string name="title">title</string>
+    <string name="authors">authors</string>
+    <string name="description">description</string>
+    <string name="price">price</string>
+    <string name="place_holder_text">There can be 2 types of parameters in URL. Query string ( followed by ?) and path parameter (Typically part of URL itself). So, what about path parameters. URLEncoder produces + for space even for path parameters. In-fact it just does not handles anything other than query string. Also, this behavior is not in sync with node js servers. So for me this class is a waste and cannot be used other than for very specific / special scenarios.</string>
+    <string name="book_search_hint">Enter book name</string>
+    <string name="author_search_hint">Enter author name</string>
+    <string name="author_search">search by author :</string>
+    <string name="book_search">search by title :</string>
+    <string name="search_button">search</string>
+    <string name="expand_text">touch to expand</string>
+    <string name="no_search_result_found">NO search result found!</string>
+
+</resources>

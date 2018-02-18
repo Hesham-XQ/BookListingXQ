@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dimensions of ImageViews:-->
+    <dimen name="image_thumbnail_width_height">100dp</dimen>
+    <dimen name="width_of_book_image_thumbnail">80dp</dimen>
+    <dimen name="height_of_book_image">250dp</dimen>
+    <dimen name="width_of_book_image">200dp</dimen>
+
+    <!-- Dimensions of TextViews:-->
+    <dimen name="dimen_25">25sp</dimen>
+    <dimen name="dimen_20">20sp</dimen>
+    <dimen name="dimen_18">18sp</dimen>
+    <dimen name="dimen_15">15sp</dimen>
+
+    <!-- Dimensions of EditText:-->
+    <dimen name="min_width">240dp</dimen>
+
+
+
+    <!-- Spacing used for padding and margins:-->
+
+    <dimen name="tiny_2dp">2dp</dimen>
+    <dimen name="huge_margin_40dp">40dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+
+</resources>
